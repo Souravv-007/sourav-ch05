@@ -6,7 +6,7 @@
 🎯 Goal: To become a skilled Software Developer  
 
 ## 🛠️ Tech Stack
-- 💡 Languages: Java, JavaScript, Python, C
+- 💡 Languages: Java, JavaScript, Python
 - 🌐 Frontend: HTML, CSS, React
 - ⚙️ Backend: Node.js, Express.js
 - 🗄️ Database: MongoDB, MySQL
