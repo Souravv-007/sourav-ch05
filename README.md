@@ -14,7 +14,7 @@
 
 ## 📚 Currently Working On
 - Full Stack Web Development Projects  
-- Java Practice & DSA  
+- Java & Python Practice & DSA  
 - Internship Projects
 - Hackerthons
 
